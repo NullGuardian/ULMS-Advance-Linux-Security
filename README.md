@@ -1,4 +1,4 @@
-# ULMS | Universal Linux Malware Scanner <img width="400" height="600" alt="ulms" src="https://github.com/user-attachments/assets/6aeff851-5427-409a-87e8-d23d1050f4ee" />
+# ULMS | Universal Linux Malware Scanner <img width="300" height="400" alt="ulms" src="https://github.com/user-attachments/assets/6aeff851-5427-409a-87e8-d23d1050f4ee" />
 
 
 ULMS is a unified security orchestration suite designed to simplify and strengthen Linux system protection. It integrates three industry-standard security engines—**ClamAV**, **Linux Malware Detect (LMD)**, and **Rkhunter**—into a single, high-performance workflow with a clean graphical interface.
