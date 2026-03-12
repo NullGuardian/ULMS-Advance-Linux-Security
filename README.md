@@ -26,3 +26,9 @@ ULMS is distributed as a pre-compiled, standalone RPM for ease of deployment and
 
 ```bash
 sudo dnf install ./ulms-1.0.0-1.fc43.x86_64.rpm
+
+### Ubuntu / Debian / Mint / Kali
+Download the `.deb` package from the [Releases](https://github.com/NullGuardian/ULMS-Advance-Linux-Security/releases) section and run:
+
+```bash
+sudo apt update && sudo apt install ./ulms_1.0.0-1_amd64.deb
