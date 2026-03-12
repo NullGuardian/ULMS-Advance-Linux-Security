@@ -21,14 +21,13 @@ ULMS is a unified security orchestration suite designed to simplify and strength
 ## Why ULMS?
 Standard security setups often leave gaps between tools. ULMS closes these gaps by providing a centralized command center. It eliminates the complexity of manual configuration, ensuring that even users without extensive command-line knowledge can deploy professional-grade security on their Linux machines.
 
-## Installation (Fedora / RHEL / CentOS)
-ULMS is distributed as a pre-compiled, standalone RPM for ease of deployment and security. To install the suite and all its dependencies, run:
+## Installation
+
+ULMS is distributed as pre-compiled, standalone **RPM** and **DEB** packages. Download the latest version from the [Releases](https://github.com/NullGuardian/ULMS-Advance-Linux-Security/releases) page.
+
+### Fedora / RHEL / CentOS (.rpm) and Ubuntu / Debian / Mint / Kali (.deb)
 
 ```bash
 sudo dnf install ./ulms-1.0.0-1.fc43.x86_64.rpm
 
-### Ubuntu / Debian / Mint / Kali
-Download the `.deb` package from the [Releases](https://github.com/NullGuardian/ULMS-Advance-Linux-Security/releases) section and run:
-
-```bash
 sudo apt update && sudo apt install ./ulms_1.0.0-1_amd64.deb
